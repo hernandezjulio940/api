@@ -1,0 +1,1 @@
+Redirect 302 /api/movieNewReleases "https://api.themoviedb.org/3/list/94776?api_key=e630fd9a85cfd7b8dd07cb41aabb6236&language=en-US%27"
